@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="times">
+        <item>@string/timea</item>
+        <item>@string/timeb</item>
+        <item>@string/timec</item>
+        <item>@string/timed</item>
+        <item>@string/timee</item>
+
+    </string-array>
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">NACRBadan</string>
+    <string name="tvNome">Name</string>
+    <string name="tvTime">Club</string>
+    <string name="btCadastrar">Send Data</string>
+    <string name="htNome">Type Your Name</string>
+    <string name="timea">Corinthians</string>
+    <string name="timeb">Palm Trees</string>
+    <string name="timec">Portuguese</string>
+    <string name="timed">Saints</string>
+    <string name="timee">Saint Paul</string>
+    <string name="tvResultado">Thanks!</string>
+    <string name="tvTimeUsuario">Club:</string>
+    <string name="tvNomeUsuario">Name:</string>
+
+</resources>
